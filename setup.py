@@ -10,7 +10,6 @@ cf.setup(
     options = {"build_exe": {
                                 "packages" : ["pygame", "os"],
                                 "include_files": ["Assets/"]
-                                
                                 }},
     executables = executables
 )
